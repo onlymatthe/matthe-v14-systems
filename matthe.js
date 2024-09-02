@@ -1,3 +1,3 @@
-const Discord = require(‘discord.js’);
+require(‘discord.js’);
 
 ÇOK YAKINDA DEMEMİ İSTER MİSİNİZ 
